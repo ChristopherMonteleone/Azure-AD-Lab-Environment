@@ -8,7 +8,7 @@ This project is broken down into multiple parts. Click the links below to naviga
 *   ### [Part 1: Initial Server Setup & Configuration](./Part-1-Server-Setup.md)
     *   *Deploying a Windows Server 2022 VM, connecting via Bastion, setting a static IP, and installing AD DS, DNS, and DHCP roles.*
  
-Summary
+## Summary
 
 **Azure-Based Windows Server Active Directory Lab**
 *   Built a complete Windows Server 2022 environment from the ground up within Microsoft Azure, configuring critical services including Active Directory Domain Services, DNS, and DHCP.
