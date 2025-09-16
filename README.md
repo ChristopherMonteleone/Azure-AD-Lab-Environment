@@ -7,7 +7,11 @@ This project is broken down into multiple parts. Click the links below to naviga
 
 *   ### [Part 1: Initial Server Setup & Configuration](./Part-1-Server-Setup.md)
     *   *Deploying a Windows Server 2022 VM, connecting via Bastion, setting a static IP, and installing AD DS, DNS, and DHCP roles.*
- 
+*   ### [Part 2: Promoting to a Domain Controller](./Part-2-Domain-Controller.md)
+    *   *Promoting the server to a Domain Controller, creating a new Active Directory forest, and building the initial Organizational Unit (OU) structure for future management.*
+*   ### [Part 3: Managing Active Directory Users & Groups](./Part-3-AD-Management.md)
+    *   *Creating and managing user accounts and security groups, demonstrating password resets, and organizing objects by moving them between different Organizational Units.*
+
 ## Summary
 
 **Azure-Based Windows Server Active Directory Lab**
