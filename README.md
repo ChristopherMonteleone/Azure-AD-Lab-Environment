@@ -5,7 +5,7 @@ A hands-on lab environment for deploying and managing Windows Server and Active 
 
 This project is broken down into multiple parts. Click the links below to navigate to each section.
 
-*   ### [Episode 1: Initial Server Setup & Configuration](./Part-1-Server-Setup.md)
+*   ### [Part 1: Initial Server Setup & Configuration](./Part-1-Server-Setup.md)
     *   *Deploying a Windows Server 2022 VM, connecting via Bastion, setting a static IP, and installing AD DS, DNS, and DHCP roles.*
  
 Summary
