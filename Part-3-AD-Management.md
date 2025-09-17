@@ -25,7 +25,7 @@ This section covers the fundamental day-to-day tasks of a System Administrator: 
 
 5.  **Organize with OUs and Move Objects:**
     *   Create a new top-level OU called `BranchTwo` to represent a different department (e.g., HR or Network Engineers).
-    *   Within each branch OU (`BranchOne`, `BranchTwo`), it is standard practice to create sub-OUs for **Computers**, **Groups**, and **Users**.
+    *   Within each branch OU (`BranchOne`, `BranchTwo`), and create sub-OUs such as **Computers**, **Groups**, and **Users**.
     *   To move a user from `BranchOne` to `BranchTwo`, you can simply click and drag the user object into the new OU.
     *   **Important:** Moving an object between OUs can automatically change the policies applied to it, as different **Group Policy Objects (GPOs)** are often linked to specific OUs.
 
