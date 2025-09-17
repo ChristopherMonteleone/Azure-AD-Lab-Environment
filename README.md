@@ -11,6 +11,8 @@ This project is broken down into multiple parts. Click the links below to naviga
     *   *Promoting the server to a Domain Controller, creating a new Active Directory forest, and building the initial Organizational Unit (OU) structure for future management.*
 *   ### [Part 3: Managing Active Directory Users & Groups](./Part-3-AD-Management.md)
     *   *Creating and managing user accounts and security groups, demonstrating password resets, and organizing objects by moving them between different Organizational Units.*
+*   ### [Part 4: Joining a Client PC to the Domain](./Part-4-Joining-Client-to-Domain.md)
+    *   *Deploying a second VM, configuring its DNS settings to find the domain, and successfully joining it to our Active Directory environment.*
 
 ## Summary
 
