@@ -1,5 +1,5 @@
 # Azure-AD-Lab-Environment
-A hands-on lab environment for deploying and managing Windows Server and Active Directory in Microsoft Azure. This project covers the end-to-end process of provisioning a virtual machine, promoting it to a Domain Controller, and performing fundamental system administration tasks like managing users, groups, and OUs.
+A comprehensive, step-by-step guide for deploying a Windows Server and Active Directory lab environment in Microsoft Azure. This repository documents the entire process with detailed instructions and screenshots, from provisioning a virtual machine to performing fundamental administrative tasks.
 
 ## Table of Contents
 
